@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AplicativoRoom</string>
+    <string name="edt_fname">Digite O Primeiro Nome</string>
+    <string name="edt_lname">Digite O Último Nome</string>
+    <string name="login_placeholder">Digite o Login</string>
+    <string name="senha_placeholder">Digite a Senha</string>
+    <string name="nome_placeholder">Digite o Nome</string>
+    <string name="email_placeholder">Digite o Email</string>
+    <string name="url_de_imagem_de_perfil_placeholder">Digite a URL de Imagem de Perfil</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="back_button_placeholder">BACK Button</string>
+    <string name="excluir_registro_btn_placeholder">Excluir Registro</string>
+    <string name="alterar_dados_btn_placeholder">Alterar Dados</string>
+    <string name="Debug_Button">Teste Button</string>
+</resources>
